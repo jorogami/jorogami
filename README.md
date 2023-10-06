@@ -6,7 +6,7 @@ You can click the Preview link to take a look at your changes.
 # jorogami
 
 ## Contato
-- ℹ️ [Linkedin](https://www.linkedin.com/in/joaorgm93/)
+- ℹ️ [Linkedin](https://www.linkedin.com/in/jorogami/)
 - 📫 contato@jorogami.com.br
 - 📄 [Porfólio](https://jorogami.com.br/)
 
