@@ -11,16 +11,17 @@ You can click the Preview link to take a look at your changes.
 - 📄 [Porfólio](https://jorogami.com.br/)
 
 ## Formação
-- **Engenharia de Software - Ampli Anhanguera - 2022 ~ Em Andamento**
-- **Tecnologia em Gestão Hospitalar - IFSC - (2011~2014) ~  Concluído**
+- **Engenharia de Software - Ampli Anhanguera - 2022~2026**
+- **Tecnologia em Gestão Hospitalar - IFSC - 2011~2014**
+- **Pós-Graduação em Engenharia de Software - Uniamérica Descomplica - 2023**
 
-## Habilidades
+## Aprimorando
   - HTML
   - CSS
   - Javascript
   - PHP
 
-## Pretendo Aprender
-  - Node.js
-  - React
+## Aprendendo
   - Java
+  - Spring Boot
+  - React JS
